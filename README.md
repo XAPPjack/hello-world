@@ -1,3 +1,3 @@
 # hello-world
-Jack is trying to learn GitHub
-Jack is an angry Trans Leslie Knope right down to the social anxiety and, well, other things...
+Jack is trying to learn GitHub.
+Pancakes.
